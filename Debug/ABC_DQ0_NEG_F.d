@@ -1,6 +1,0 @@
-# FIXED
-
-ABC_DQ0_NEG_F.obj: ../ABC_DQ0_NEG_F.c
-
-../ABC_DQ0_NEG_F.c:
-

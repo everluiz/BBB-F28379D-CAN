@@ -1,6 +1,0 @@
-# FIXED
-
-PID_GRANDO_F.obj: ../PID_GRANDO_F.c
-
-../PID_GRANDO_F.c:
-

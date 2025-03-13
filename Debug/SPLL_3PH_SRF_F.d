@@ -1,6 +1,0 @@
-# FIXED
-
-SPLL_3PH_SRF_F.obj: ../SPLL_3PH_SRF_F.c
-
-../SPLL_3PH_SRF_F.c:
-

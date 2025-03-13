@@ -1,6 +1,0 @@
-# FIXED
-
-NOTCH_FLTR_F.obj: ../NOTCH_FLTR_F.c
-
-../NOTCH_FLTR_F.c:
-
